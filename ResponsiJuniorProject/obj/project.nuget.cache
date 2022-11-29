@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TpWgncBqat+ead5UgiQLou9gnYFNeXjxWHFwsyA7GPGOXA5+AD/NfxWCAoziw02xM892tY9iP2hTUE4aFdxEPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\ResponsiJuniorProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
